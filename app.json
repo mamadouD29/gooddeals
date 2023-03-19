@@ -3,11 +3,12 @@
     "name": "gooddeals",
     "slug": "gooddeals",
     "version": "1.0.0",
+    "description": "Your app to show you pretty gooddeals and redirect you to the bakesalefrogood. Download to not miss any good deal!",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/deal.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/deal.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -19,12 +20,12 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/deal.png",
         "backgroundColor": "#ffffff"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/deal.png"
     }
   }
 }
